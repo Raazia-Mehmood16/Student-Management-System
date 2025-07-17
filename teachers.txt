@@ -1,0 +1,24 @@
+Name: Ali Raza
+ID: 123
+Class: SE
+Subject: English
+Password: Ali123
+---------------------
+Name: Kamran khraal
+ID: 567
+Class: DAS
+Subject: Antomology
+Password: hadi5757
+---------------------
+Name: Ali Ahmad
+ID: 23d1
+Class: 1D
+Subject: Physics
+Password: Ali23
+---------------------
+Name: Raazia Mehmood
+ID: 567
+Class: BS CS 2s
+Subject: Programming Fundamental
+Password: Raazia168
+---------------------
